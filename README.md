@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to My GitHub Repository
 
-<!--
-**meowwly/meowwly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thank you for visiting my GitHub repository! Here, you'll find a collection of projects that showcase my interests and skills in various areas of development.
 
-Here are some ideas to get you started:
+> [!TIP]
+> Feel free to explore the code, and I always appreciate any feedback or suggestions you might have. Your input helps me grow and improve as a developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I've Used
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,graphql,prisma,mysql,cpp,astro&theme=dark" />
+  </a>
+</p>
